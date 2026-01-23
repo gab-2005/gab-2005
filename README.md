@@ -12,40 +12,63 @@
 - **Experience:** Front-end, Back-end, Mobile Development  
 - **Goal:** Become Full-Stack Developer  
 
+---
+
+### 💻 Main Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3)
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
+
+---
 
 ### 🛠 Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&textColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&textColor=181717)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=4479A1)&nbsp;
-
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 
 ---
 
 ### 📚 Currently Studying
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 
 ---
 
+### 📈 GitHub Stats
+<div style="display: inline-flex; gap: 5px;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gab-2005&theme=algolia&show_icons=true&icon_color=30A3DC&title_color=4B9CD3&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-2005&layout=compact&theme=algolia)
+</div>
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-2005&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/gab-2005/github-readme-activity-graph)
+---
 
+### 📊 Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-2005&bg_color=0d1117&color=00bfbf&line=15e5a6&point=07e9a5&area=true&hide_border=true)](https://github.com/gab-2005)
 
+---
 
-<div align="center">  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gab-2005&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<div align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
