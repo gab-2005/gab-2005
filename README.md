@@ -8,7 +8,7 @@
 - **Name:** Gabriel Araujo de Oliveira  
 - **Age:** 20 years  
 - **Course:** Analysis and Systems Development  
-- **Semester:** 4th (Project Management focus)  
+- **Semester:** 4th ( Foco em ser desenvolvedor full stack )
 - **Experience:** Front-end, Back-end, Mobile Development  
 - **Goal:** Become Full-Stack Developer  
 
