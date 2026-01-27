@@ -20,8 +20,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 
 ---
 
@@ -29,16 +30,13 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 
 ---
 
 ### 📚 Currently Studying
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
 
 ---
 
@@ -57,19 +55,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gab-2005&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
